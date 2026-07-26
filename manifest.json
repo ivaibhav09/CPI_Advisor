@@ -1,6 +1,6 @@
 ﻿{
     "manifest_version":  3,
-    "name":  "Cognizant CPI Advisor",
+    "name":  "SAP CPI Migration Copilot",
     "version":  "1.0.0",
     "permissions":  [
                         "storage",
@@ -14,7 +14,7 @@
                        "service_worker":  "background.js"
                    },
     "action":  {
-                   "default_title":  "Cognizant CPI Advisor"
+                   "default_title":  "SAP CPI Migration Copilot"
                },
     "side_panel":  {
                        "default_path":  "sidepanel.html"
